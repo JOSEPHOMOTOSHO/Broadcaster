@@ -1,3 +1,7 @@
+# Description
+
+An API service for event broadcasting and private chat functionality using LUMEN/LARAVEL
+
 # Lumen PHP Framework
 
 [![Build Status](https://travis-ci.org/laravel/lumen-framework.svg)](https://travis-ci.org/laravel/lumen-framework)
